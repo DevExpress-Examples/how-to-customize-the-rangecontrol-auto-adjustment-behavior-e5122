@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/SchedulerRangeControlExample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/SchedulerRangeControlExample/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/SchedulerRangeControlExample/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/SchedulerRangeControlExample/MainWindow.xaml))
+<!-- default file list end -->
 # How to customize the RangeControl auto adjustment behavior
 
 
